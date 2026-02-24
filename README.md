@@ -1,6 +1,6 @@
 Full Name: John Vincent Inventor
 Student Number: 202406556
-Course/Year/Section: BSCS 2-1
+Section: BSCS 2-1
 
 Laboratory Exercise 2
 Title: MySQL Functions, Group By, Order By and Constraints
