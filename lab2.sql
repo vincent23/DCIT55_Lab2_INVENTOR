@@ -62,7 +62,10 @@ FROM studentinfo;
 SELECT
 studentNumber,
 firstName,
-DATE_FORMAT(birthDate,'%M %D %Y') AS formattedBirthdate
+lastName,
+middleName,
+DATE_FORMAT(birthDate,'%M %D %Y') AS formattedBirthdate,
+sex
 FROM studentinfo;
 
 SELECT	
